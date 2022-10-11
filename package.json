@@ -1,7 +1,7 @@
 {
   "name": "second-day",
   "version": "0.1.0",
-  "homepage": "https://travikdev.github.io/react-deploy-gh",
+  "homepage": "https://travikdev.github.io/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.6",
