@@ -120,7 +120,7 @@ function Catalog() {
           <hr className="sm:block hidden mb-2 mt-4" />
 
           <section className="sm:py-2 sm:my-2">
-            <ul className="flex flex-row sm:flex-row justify-center flex-wrap gap-10 mx-auto">
+            <ul className="flex flex-row sm:flex-row justify-center flex-wrap gap-10 mx-4">
               {
               isLoading ? LoaderArr.map((x, i) => (<Preloader key={i} />)) : shop_items
               }
