@@ -33,7 +33,7 @@ function Items({ id, title, model, price, type, rating }) {
   return (
     <li className=" rounded-md shadow-md border-2 bg-white text-black">
       <img
-        src={"https://raw.githubusercontent.com/TravikDev/last-shop/main/public/img/products/" + id + ".png"}
+        src={"https://raw.githubusercontent.com/TravikDev/smart-shop/main/public/img/products/" + id + ".png"}
         width="360"
         height="360"
         alt="product"
