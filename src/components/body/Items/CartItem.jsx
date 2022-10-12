@@ -22,7 +22,7 @@ function CartItem({id, title, price, count, type, position}) {
           <section className="bg-white border-2 border-slate-300 rounded-md py-2 pr-4 flex justify-between items-center text-lg">
             <section className="flex flex-row items-center relative">
               <img
-                src={"./img/products/" + id + ".png"}
+                src={"https://raw.githubusercontent.com/TravikDev/shop-gh/main/public/img/products/" + id + ".png"}
                 width={100}
                 height={100}
                 className="m-2 ml-4 border-2 p-2 rounded-md border-slate-300"

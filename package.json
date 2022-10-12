@@ -1,7 +1,7 @@
 {
-  "name": "second-day",
+  "name": "smart-shop",
   "version": "0.1.0",
-  "homepage": "https://travikdev.github.io/shop-gh",
+  "homepage": "https://TravikDev.github.io/Smart-Shop",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.6",
