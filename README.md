@@ -1,6 +1,7 @@
-# Первый проект в портфолио - онлайн магазин (дорабатывается)
+# Проект для портфолио (open-source)
+Smart-Shop - онлайн магазин (дорабатывается)
 
-Live demo: https://travikdev.github.io/smart-shop/
+Live preview: https://travikdev.github.io/smart-shop/
 
 
 Краткое описание функционала:
