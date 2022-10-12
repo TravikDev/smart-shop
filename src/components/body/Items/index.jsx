@@ -31,7 +31,7 @@ function Items({ id, title, model, price, type, rating }) {
   }
 
   return (
-    <li className=" rounded-md shadow-md border-2 bg-white text-black mx-4 sm:mx-0">
+    <li className=" rounded-md shadow-md border-2 bg-white text-black mx-20 sm:mx-0">
       <img
         src={"/img/products/" + id + ".png"}
         width="360"
