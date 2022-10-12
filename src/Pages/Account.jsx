@@ -82,7 +82,7 @@ function Account() {
                   />
                 </div>
               </section>
-              <section>Test
+              <section>
               <button className="mt-2 flex items-center border-2 border-opacity-80 rounded-md border-sky-900 bg-sky-700 hover:bg-sky-900 text-white">
                 <p className="px-2 text-lg sm:-mt-1 sm:p-1 sm:text-base uppercase">
                   Submit
@@ -114,7 +114,7 @@ function Account() {
       <hr className="opacity-50 mt-2" />
       <section className=" bg-white text-black border-2 rounded-md my-4 h-5/6">
         <article className="p-4 flex justify-center flex-col">
-            Bitch
+            Registration Form
         </article>
         </section>
       </div>  
