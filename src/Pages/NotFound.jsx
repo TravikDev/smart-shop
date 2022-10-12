@@ -10,7 +10,7 @@ function NotFound() {
         <hr className="opacity-50" />
         <div className="flex justify-between">
         <p className="text-black">Nothing found</p>
-        <Link to="/"><button class="mb-2 flex border-2 border-opacity-80 rounded-md border-sky-800 hover:bg-sky-900 bg-sky-600 text-white hover:text-white px-1 text-lg sm:text-sm">Home Page</button></Link>
+        <Link to="/last-shop"><button class="mb-2 flex border-2 border-opacity-80 rounded-md border-sky-800 hover:bg-sky-900 bg-sky-600 text-white hover:text-white px-1 text-lg sm:text-sm">Home Page</button></Link>
       </div>
       </section>
 

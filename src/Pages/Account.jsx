@@ -82,7 +82,7 @@ function Account() {
                   />
                 </div>
               </section>
-              <section>bitch
+              <section>Test
               <button className="mt-2 flex items-center border-2 border-opacity-80 rounded-md border-sky-900 bg-sky-700 hover:bg-sky-900 text-white">
                 <p className="px-2 text-lg sm:-mt-1 sm:p-1 sm:text-base uppercase">
                   Submit
