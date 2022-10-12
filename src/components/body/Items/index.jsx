@@ -34,8 +34,8 @@ function Items({ id, title, model, price, type, rating }) {
     <li className=" rounded-md shadow-md border-2 bg-white text-black mx-20 sm:mx-0">
       <img
         src={"/img/products/" + id + ".png"}
-        width="360"
-        height="360"
+        width="300"
+        height="300"
         alt="product"
         className="p-4"
       />
