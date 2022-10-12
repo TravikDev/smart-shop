@@ -16,7 +16,7 @@ function App() {
       <main className="max-w-4xl mx-auto flex justify-center flex-col">
 
         <Routes>
-          <Route path="/last-shop" element={<Catalog />} />
+          <Route path="/smart-shop" element={<Catalog />} />
           <Route path="/cart" element={<Cart /> } />
           <Route path="/account" element={<Account /> } />
           <Route path="*" element={<NotFound />} />

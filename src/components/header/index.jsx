@@ -62,7 +62,7 @@ function Header() {
           )}
           <p className="mx-2 text-lg uppercase">
 
-            <Link to="/last-shop">Smart-shop</Link></p></div>
+            <Link to="/smart-shop">Smart-shop</Link></p></div>
           {/* HEADER: RIGHT BLOCK - CART */}
           <section className="flex">
             <Link to="/cart">
