@@ -17,6 +17,7 @@ function CartItem({id, title, price, count, type, position}) {
         dispatch(removeFromCart(id))
     }
 
+
   return (
     <article className="flex gap-5 flex-col sm:mx-20">
           <section className="bg-white border-2 border-slate-300 rounded-md py-2 pr-4 flex justify-between items-center text-lg">
