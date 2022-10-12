@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/smart-shop/static/css/main.33674716.css",
+    "main.js": "/smart-shop/static/js/main.0b4f8e1b.js",
+    "index.html": "/smart-shop/index.html",
+    "main.33674716.css.map": "/smart-shop/static/css/main.33674716.css.map",
+    "main.0b4f8e1b.js.map": "/smart-shop/static/js/main.0b4f8e1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33674716.css",
+    "static/js/main.0b4f8e1b.js"
+  ]
+}
