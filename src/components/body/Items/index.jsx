@@ -18,7 +18,7 @@ function Items({ id, title, model, price, type, rating }) {
 
   const arrStars = [...Array(5)];
   const typeMemory = ["64GB", "126GB", "512 GB", "1 TB"];
-
+ 
 
   const handleClickAddToCart = () => {
     const item = {
@@ -33,7 +33,7 @@ function Items({ id, title, model, price, type, rating }) {
   return (
     <li className=" rounded-md shadow-md border-2 bg-white text-black mx-20 sm:mx-0">
       <img
-        src={"/img/products/" + id + ".png"}
+        src={"https://raw.githubusercontent.com/TravikDev/shop-gh/main/public/img/products/" + id + ".png"}
         width="300"
         height="300"
         alt="product"
